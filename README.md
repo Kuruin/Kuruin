@@ -21,6 +21,6 @@ I'm Still Learning, Will see you around.
 
 
 ## Languages and Tools  
-Learning C,CSS and Java
+Learning C, Python and Java
 
 Saionara!
