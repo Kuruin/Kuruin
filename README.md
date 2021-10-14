@@ -14,7 +14,7 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Kuruin&style=flat-square&color=86d62f)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kuruin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kuruin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
 
 ### Nice to see you!  
 I'm Still Learning, Will see you around.
