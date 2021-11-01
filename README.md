@@ -8,9 +8,6 @@
 <a href="https://t.me/Kuruin" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=0088CC alt=telegram style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/just_manavjit" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=DD2A7B alt=instagram style="margin-bottom: 5px;" />
-</a>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Kuruin&style=flat-square&color=86d62f)
 
