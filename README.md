@@ -19,8 +19,7 @@
 ### Nice to see you!  
 I'm Still Learning, Will see you around.
 
-
 ## Languages and Tools  
-Learning C, Python and Java
+Learning C++
 
 Saionara!
