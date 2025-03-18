@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<h4 align="left">Still learning..</h4>
+<p align="left">Still learning..</p>
 
 ###
