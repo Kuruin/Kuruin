@@ -1,57 +1,51 @@
-<h1 align="center">Hi 👋, I'm Manavjit Singh</h1>
+<!-- Your title -->
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!;नमस्ते;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ;Bonjour;Hola;Ciao;안녕하세요&font=Fira%20Code¢er=true&width=130&height=50)  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-###
+### I'm [Manavjit Singh](https://filebin.net/p9yl9m3irmcq7wwv/new%20manav%20resume.pdf), a Developer 🚀 from India
 
-<h4 align="left">Aspiring Full Stack developer from India</h4>
+---
 
-###
+### 👨‍💻 About Me
+I’m a **Computer Science student** who enjoys building things that actually work and solving problems that make me think.
 
-<div align="left">
-  <a href="https://t.me/Kuruin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://x.com/RealKuruin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/manavjit-singh-tanda/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+I spend most of my time:
+- Building **web applications** and experimenting with backend logic  
+- Sharpening my **problem-solving & DSA fundamentals**  
+- Learning how [backend engineering works from first principles](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)
+- Slowly preparing to explore **Web3 & blockchain development**
 
-###
+I like progress over perfection, and I learn best by building.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuruin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuruin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuruin&theme=high-contrast&area=true&order=5&bg_color=Black&hide_title=false&hide_border=true" height="299" alt="activity-graph graph"  />
-</div>
+---
 
-###
+### 📬 Find me at
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kuruin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavjit-singh-tanda/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kuruin)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavjit9@gmail.com)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-</div>
+---
 
-###
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,c,cpp,python,nodejs,express,git,prisma,docker,nextjs,mongodb,mysql" />
+</p>
 
-<br clear="both">
+---
 
-<p align="left">Still learning..</p>
+### 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kuruin&amp;theme=date_night&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuruin&amp;theme=date_night&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
+  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=kuruin&amp;theme=date_night&amp;hide_border=false" alt="">
+</p>
 
-###
+
+---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zwqxe7wckuigfkf55pfrv6hpeu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zwqxe7wckuigfkf55pfrv6hpeu&redirect=true)
+
+---
+
+### ✨ Motto
+> *Still learning. Still building. Still improving.*
