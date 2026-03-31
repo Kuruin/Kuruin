@@ -35,8 +35,8 @@ I like progress over perfection, and I learn best by building.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kuruin&amp;theme=date_night&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuruin&amp;theme=date_night&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
+  <img height="160" src="./profile/stats.svg" alt="">
+  <img height="160" src="./profile/top-langs.svg" alt="">
   <img height="160" src="https://streak-stats.demolab.com?user=Kuruin&theme=date-night&hide_border=true" alt="">
 </p>
 
