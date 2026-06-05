@@ -35,9 +35,9 @@ I like progress over perfection, and I learn best by building.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="./profile/stats.svg" alt="">
-  <img height="160" src="./profile/top-langs.svg" alt="">
-  <img height="160" src="https://streak-stats.demolab.com?user=Kuruin&theme=date-night&hide_border=true" alt="">
+  <img height="160" src="./profile/stats.svg" alt="Github Stats Card">
+  <img height="160" src="./profile/top-langs.svg" alt="Top Languages Card">
+  <img height="160" src="./profile/streak.svg" alt="Github Streak Card">
 </p>
 
 
