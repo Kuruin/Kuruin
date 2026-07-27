@@ -12,7 +12,7 @@ I spend most of my time:
 - Building **web applications** and experimenting with backend logic  
 - Sharpening my **problem-solving & DSA fundamentals**  
 - Learning how [backend engineering works from first principles](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)
-- Slowly preparing to explore **Web3 & blockchain development**
+- Slowly preparing to explore **Web3 (Solana) **
 
 I like progress over perfection, and I learn best by building.
 
