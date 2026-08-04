@@ -1,7 +1,7 @@
 <!-- Your title -->
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!;नमस्ते;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ;Bonjour;Hola;Ciao;안녕하세요&font=Fira%20Code¢er=true&width=130&height=50)  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-### I'm [Manavjit Singh](https://filebin.net/p9yl9m3irmcq7wwv/new%20manav%20resume.pdf), a Developer 🚀 from India
+### I'm [Manavjit Singh](https://drive.usercontent.google.com/download?id=1bdyiyG8M0xuZ0LCSSzKWT0RsV6vSNAb_&export=download), a Developer 🚀 from India
 
 ---
 
