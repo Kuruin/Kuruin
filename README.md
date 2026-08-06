@@ -19,17 +19,28 @@ I like progress over perfection, and I learn best by building.
 ---
 
 ### 📬 Find me at
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kuruin)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavjit-singh-tanda/)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kuruin)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavjit9@gmail.com)
+[![GitHub](https://shieldcn.dev/badge/GitHub.svg?logo=github&variant=branded&size=sm)](https://github.com/kuruin)
+[![LinkedIn](https://shieldcn.dev/badge/LinkedIn-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/manavjit-singh-tanda)
+[![Telegram](https://shieldcn.dev/badge/Telegram-2CA5E0.svg?logo=telegram&variant=branded&size=sm)](https://t.me/Kuruin)
+[![Gmail](https://shieldcn.dev/badge/Gmail-c14438.svg?logo=gmail&variant=branded&size=sm)](mailto:manavjit9@gmail.com)
 
 ---
 
 ### 🛠️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,c,cpp,python,nodejs,express,git,prisma,docker,nextjs,mongodb,mysql" />
-</p>
+
+![TypeScript](https://shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript&variant=secondary&size=sm)
+![Tailwind CSS](https://shieldcn.dev/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=secondary&size=sm)
+![C](https://shieldcn.dev/badge/C-A8B9CC.svg?logo=c&variant=secondary&size=sm)
+![C++](https://shieldcn.dev/badge/C%2B%2B-00599C.svg?logo=cplusplus&variant=secondary&size=sm)
+![Python](https://shieldcn.dev/badge/Python-3776AB.svg?logo=python&variant=secondary&size=sm)
+![Node.js](https://shieldcn.dev/badge/Node.js-339933.svg?logo=nodedotjs&variant=secondary&size=sm)
+![Express](https://shieldcn.dev/badge/Express-000000.svg?logo=express&variant=secondary&size=sm)
+![Git](https://shieldcn.dev/badge/Git-F05032.svg?logo=git&variant=secondary&size=sm)
+![Prisma](https://shieldcn.dev/badge/Prisma-2D3748.svg?logo=prisma&variant=secondary&size=sm)
+![Docker](https://shieldcn.dev/badge/Docker-2496ED.svg?logo=docker&variant=secondary&size=sm)
+![Next.js](https://shieldcn.dev/badge/Next.js-000000.svg?logo=nextdotjs&variant=secondary&size=sm)
+![MongoDB](https://shieldcn.dev/badge/MongoDB-47A248.svg?logo=mongodb&variant=secondary&size=sm)
+![MySQL](https://shieldcn.dev/badge/MySQL-4479A1.svg?logo=mysql&variant=secondary&size=sm)
 
 ---
 
